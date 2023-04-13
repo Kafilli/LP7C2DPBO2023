@@ -1,2 +1,4 @@
 # LP7C2DPBO2023
-Latihan Praktikum 7 Desain dan Algoritma Pemrograman 2023
+# أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهِ
+
+
