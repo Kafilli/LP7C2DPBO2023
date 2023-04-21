@@ -15,3 +15,6 @@ Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara har
 ## Dokumentasi
 
 ![2023-04-21 19-56-32](https://user-images.githubusercontent.com/100756191/233643451-dcb08676-6997-41c3-af53-6847fd7e43f3.gif)
+
+https://user-images.githubusercontent.com/100756191/233643956-f4908e08-5634-4054-ad68-588098b749f0.mp4
+
